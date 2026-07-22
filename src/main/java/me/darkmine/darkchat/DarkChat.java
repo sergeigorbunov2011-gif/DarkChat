@@ -17,7 +17,7 @@ public final class DarkChat extends JavaPlugin {
         Bukkit.getConsoleSender().sendMessage("§8==============================");
         Bukkit.getConsoleSender().sendMessage("§aDarkChat §7успешно загружен!");
         Bukkit.getConsoleSender().sendMessage("§7Версия: §f1.0");
-        Bukkit.getConsoleSender().sendMessage("§7Автор: §bSergey");
+        Bukkit.getConsoleSender().sendMessage("§7Автор: §bPhantomEdge");
         Bukkit.getConsoleSender().sendMessage("§8==============================");
 
         // Здесь позже зарегистрируем команды и события
