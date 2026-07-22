@@ -3,7 +3,7 @@ version: 1.0.0
 main: me.darkmine.darkchat.DarkChat
 api-version: 1.16
 
-author: Sergey
+author: PhantomEdge
 
 description: Advanced chat plugin for DarkMine
 
